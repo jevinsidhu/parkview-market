@@ -17,13 +17,13 @@ export default function Home() {
     <>
       <Head>
         <title>Park View Market</title>
-        <meta name="description" content="Parkview Market" />
+        <meta name="description" content="Park View Market" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
-          <h1 className={inter.className}>Parkview Market</h1>
+          <h1 className={inter.className}>Park View Market</h1>
           <h2 className={inter.className}>1091 North Park Drive, Pixley, CA, 93256</h2>
           <p className={inter.className}>Operated by: Sidhu G inc.</p>
         </div>
