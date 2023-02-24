@@ -25,6 +25,7 @@ export default function Home() {
         <div className={styles.description}>
           <h1 className={inter.className}>Park View Market</h1>
           <h2 className={inter.className}>1091 North Park Drive, Pixley, CA, 93256</h2>
+          <h2 className={inter.className}>559-427-6117</h2>
           <p className={inter.className}>Operated by: Sidhu G inc.</p>
         </div>
         <div className={styles.gallery}>
